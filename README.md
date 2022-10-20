@@ -6,19 +6,20 @@
 Camera -> WearOS -> Cloud -> VR Headset (AR is gonna be in VR for now)
 
 ## How?
-- [ ] Develop Wear OS app that connects camera to the cloud and does stuff to live feed
+- [ ] Develop Wear OS app that connects to camera
   - [ ] Overlay
     - [ ] Freedraw
     - [ ] Giphy
+	- [ ] 3d models (unity asset store)
     - [ ] Facial recognition
-  - [ ] streams overlayed camera feed to cloud
+  - [ ] Streams overlayed camera feed to cloud
 - [ ] Develop vr headset app
-  - [ ] connects to cloud and grabs overlayed camera feed
-  - [ ] utilizes Wear OS overlay API
-  - [ ] frontier connection names
-    - [ ] frontier camera feed box
+  - [ ] Connects to cloud and grabs overlayed camera feed
+  - [ ] Utilizes Wear OS overlay API
+  - [ ] Frontier connection names
+    - [ ] Frontier camera feed box
   - [ ] Security cameras list
     - [ ] Security camera feed box
-  - [ ] apis list
+  - [ ] APIs list
     - [ ] Google assistant
     - [ ] Google maps
