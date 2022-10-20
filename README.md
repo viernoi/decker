@@ -4,8 +4,8 @@
 
 ## How?
 - [ ] Develop AR app
-  - [ ] Camera
-  - [ ] ARtoolkit API for VR backend
+  - [x] Camera
+  - [ ] ARCore API for VR backend
 	- [ ] freedraw
 	- [ ] giphy
 	- [ ] unity asset store
