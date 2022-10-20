@@ -4,14 +4,14 @@
 
 ## How?
 Might not be necessary:
-	- [ ] Develop AR app
-	  - [x] Camera
-	- [ ] ARCore API for VR backend
-	  - [ ] freedraw
-	  - [ ] giphy
-	  - [ ] unity asset store
-	  - [ ] google maps
-	  - [ ] object/facial recognition
+`- [ ] Develop AR app`
+  `- [x] Camera`
+  `- [ ] ARCore API for VR backend`
+    `- [ ] freedraw`
+	`- [ ] giphy`
+	`- [ ] unity asset store`
+	`- [ ] google maps`
+	`- [ ] object/facial recognition`
 - [ ] Develop wear os app that connects phone AR app
   - [ ] streams camera from AR app to cloud
   - [ ] API for VR backend to AR app API
