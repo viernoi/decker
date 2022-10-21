@@ -24,5 +24,5 @@ Camera -> WearOS -> Cloud -> VR Headset (AR is gonna be in VR for now)
     - [ ] Google maps
 
 ## How I think Mojo Contacts will work
-Contacts -> WearOS <-> Cloud <-> VR App
-       \- SDK ----- API -/<\----/
+- Contacts -> WearOS <-> Cloud <-> VR App <br />
+&emsp;&emsp;&emsp; `\- SDK ----- API -/<\----/`
