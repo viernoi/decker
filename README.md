@@ -7,15 +7,14 @@ Camera -> WearOS -> Cloud -> VR Headset (AR is gonna be in VR for now)
 
 ## How?
 - [ ] Develop Wear OS app that connects to camera
+  - [ ] Streams overlayed camera feed to cloud
+- [ ] Develop vr headset app
   - [ ] Overlay
     - [ ] Freedraw
     - [ ] Giphy
 	- [ ] 3d models (unity asset store)
     - [ ] Facial recognition
-  - [ ] Streams overlayed camera feed to cloud
-- [ ] Develop vr headset app
-  - [ ] Connects to cloud and grabs overlayed camera feed
-  - [ ] Utilizes Wear OS overlay API
+  - [ ] Connects to cloud and grabs/sends overlayed camera feed
   - [ ] Frontier connection names
     - [ ] Frontier camera feed box
   - [ ] Security cameras list
@@ -23,3 +22,7 @@ Camera -> WearOS -> Cloud -> VR Headset (AR is gonna be in VR for now)
   - [ ] APIs list
     - [ ] Google assistant
     - [ ] Google maps
+
+## How I think Mojo Contacts will work
+Contacts -> WearOS <-> Cloud <-> VR App
+       \- SDK ----- API -/<\----/
